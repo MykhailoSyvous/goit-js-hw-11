@@ -2,7 +2,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   color: #2e2f42;
   padding: 20px;
-  background: #2F4F4F;
+  background: #009090;
 }
 
 body::before {
@@ -14,11 +14,7 @@ body::before {
   top: 0;
   left: 0;
   z-index: -1;
-  background-image: url('../img/flower-3.png'), url('../img/flower-16.png'); 
-  background-repeat: no-repeat; 
-  background-size: cover;
-  background-size: 15%, 15%;
-  background-position: right top, left top;
+
 }
 
 @font-face {
